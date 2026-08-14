@@ -1,6 +1,6 @@
 # 08 · 工具注册表与 pre/execute/post 流水线
 
-课表：[source-curriculum.md](../source-curriculum.md) · 上一篇：[07 system-prompt](07-system-prompt.md) · 下一篇：[09 agent-registry](../source-curriculum.md)（待写）
+课表：[source-curriculum.md](../source-curriculum.md) · 上一篇：[07 system-prompt](07-system-prompt.md) · 下一篇：[09 agent-registry](09-agent-registry.md)
 
 读的是 DeepSeek Harness 真正跑的那份工具表和执行流水线，不是自己再发明一套词。
 源码用 GitHub raw / API 拉取，**没有** clone `deepseek-ai/deepseek-harness` 或 `cordiverse/cordis`。

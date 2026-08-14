@@ -18,7 +18,7 @@
 | 06 | session-log | 只追加 SessionEvent 与 deriveMessages | done | [notes/source/06-session-log.md](source/06-session-log.md) | 2026-08-14 |
 | 07 | system-prompt | 提示词片段与工具 schema 组装 | done | [notes/source/07-system-prompt.md](source/07-system-prompt.md) | 2026-08-14 |
 | 08 | tools-pipeline | 工具注册表与 pre/execute/post 流水线 | done | [notes/source/08-tools-pipeline.md](source/08-tools-pipeline.md) | 2026-08-14 |
-| 09 | agent-registry | Agent 接口、工厂、活注册表 | pending | notes/source/09-agent-registry.md | |
+| 09 | agent-registry | Agent 接口、工厂、活注册表 | done | [notes/source/09-agent-registry.md](source/09-agent-registry.md) | 2026-08-14 |
 | 10 | agent-loop | turn / step / inbox / 驱动器 | pending | notes/source/10-agent-loop.md | |
 | 11 | llm-streaming | ctx.llm 适配器与流式 | pending | notes/source/11-llm-streaming.md | |
 | 12 | agent-scope | 每个 agent 一根子纤程 | pending | notes/source/12-agent-scope.md | |

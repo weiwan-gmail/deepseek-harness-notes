@@ -59,6 +59,7 @@
 - 06 · 只追加 SessionEvent 与 deriveMessages：[notes/source/06-session-log.md](notes/source/06-session-log.md)
 - 07 · 提示词片段与工具 schema 组装：[notes/source/07-system-prompt.md](notes/source/07-system-prompt.md)
 - 08 · 工具注册表与 pre/execute/post 流水线：[notes/source/08-tools-pipeline.md](notes/source/08-tools-pipeline.md)
+- 09 · Agent 接口、工厂、活注册表：[notes/source/09-agent-registry.md](notes/source/09-agent-registry.md)
 
 ## 版权与归属
 
