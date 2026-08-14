@@ -1,6 +1,6 @@
 # 11 · ctx.llm 适配器与流式
 
-课表：[source-curriculum.md](../source-curriculum.md) · 上一篇：[10 agent-loop](10-agent-loop.md) · 下一篇：[12 agent-scope](../source-curriculum.md)（待写）
+课表：[source-curriculum.md](../source-curriculum.md) · 上一篇：[10 agent-loop](10-agent-loop.md) · 下一篇：[12 agent-scope](12-agent-scope.md)
 
 读的是 DeepSeek Harness 真正跑的那份模型缝，不是自己再发明一套「LLM 客户端」。
 源码用 GitHub raw / API 拉取，**没有** clone `deepseek-ai/deepseek-harness` 或 `cordiverse/cordis`。

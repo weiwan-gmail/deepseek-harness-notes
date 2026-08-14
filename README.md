@@ -62,6 +62,7 @@
 - 09 · Agent 接口、工厂、活注册表：[notes/source/09-agent-registry.md](notes/source/09-agent-registry.md)
 - 10 · Agent 循环、turn / step / inbox：[notes/source/10-agent-loop.md](notes/source/10-agent-loop.md)
 - 11 · ctx.llm 适配器与流式：[notes/source/11-llm-streaming.md](notes/source/11-llm-streaming.md)
+- 12 · 每个 agent 一根子纤程：[notes/source/12-agent-scope.md](notes/source/12-agent-scope.md)
 
 ## 版权与归属
 
