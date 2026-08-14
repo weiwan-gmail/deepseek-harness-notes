@@ -1,6 +1,6 @@
 # 10 · Agent 循环：turn / step / inbox / 驱动器
 
-课表：[source-curriculum.md](../source-curriculum.md) · 上一篇：[09 agent-registry](09-agent-registry.md) · 下一篇：[11 llm-streaming](../source-curriculum.md)（待写）
+课表：[source-curriculum.md](../source-curriculum.md) · 上一篇：[09 agent-registry](09-agent-registry.md) · 下一篇：[11 llm-streaming](11-llm-streaming.md)
 
 读的是 DeepSeek Harness 真正跑的那份炒菜机，不是自己再发明一套「agent 循环」。
 源码用 GitHub raw / API 拉取，**没有** clone `deepseek-ai/deepseek-harness` 或 `cordiverse/cordis`。
