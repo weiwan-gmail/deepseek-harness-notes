@@ -1,6 +1,6 @@
 # 12 · 每个 agent 一根子纤程
 
-课表：[source-curriculum.md](../source-curriculum.md) · 上一篇：[11 llm-streaming](11-llm-streaming.md) · 下一篇：[13 fs-subprocess-sandbox](../source-curriculum.md)（待写）
+课表：[source-curriculum.md](../source-curriculum.md) · 上一篇：[11 llm-streaming](11-llm-streaming.md) · 下一篇：[13 fs-subprocess-sandbox](13-fs-subprocess-sandbox.md)
 
 读的是 DeepSeek Harness 真正跑的那份「每位厨师自己的小厨房」，不是自己再发明一套作用域。
 源码用 GitHub raw / API 拉取，**没有** clone `deepseek-ai/deepseek-harness` 或 `cordiverse/cordis`。

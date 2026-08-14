@@ -22,7 +22,7 @@
 | 10 | agent-loop | turn / step / inbox / 驱动器 | done | [notes/source/10-agent-loop.md](source/10-agent-loop.md) | 2026-08-14 |
 | 11 | llm-streaming | ctx.llm 适配器与流式 | done | [notes/source/11-llm-streaming.md](source/11-llm-streaming.md) | 2026-08-14 |
 | 12 | agent-scope | 每个 agent 一根子纤程 | done | [notes/source/12-agent-scope.md](source/12-agent-scope.md) | 2026-08-14 |
-| 13 | fs-subprocess-sandbox | 文件系统、子进程、沙箱缝 | pending | notes/source/13-fs-subprocess-sandbox.md | |
+| 13 | fs-subprocess-sandbox | 文件系统、子进程、沙箱缝 | done | [notes/source/13-fs-subprocess-sandbox.md](source/13-fs-subprocess-sandbox.md) | 2026-08-14 |
 | 14 | approval-guard | 审批、guard、策略 | pending | notes/source/14-approval-guard.md | |
 | 15 | subagents | 子 agent 提供方 | pending | notes/source/15-subagents.md | |
 | 16 | skills-mcp | skills 与 MCP | pending | notes/source/16-skills-mcp.md | |
