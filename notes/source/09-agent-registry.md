@@ -1,6 +1,6 @@
 # 09 · Agent 接口、工厂、活注册表
 
-课表：[source-curriculum.md](../source-curriculum.md) · 上一篇：[08 tools-pipeline](08-tools-pipeline.md) · 下一篇：[10 agent-loop](../source-curriculum.md)（待写）
+课表：[source-curriculum.md](../source-curriculum.md) · 上一篇：[08 tools-pipeline](08-tools-pipeline.md) · 下一篇：[10 agent-loop](10-agent-loop.md)
 
 读的是 DeepSeek Harness 真正跑的那份 Agent 前台，不是自己再发明一套词。
 源码用 GitHub raw / API 拉取，**没有** clone `deepseek-ai/deepseek-harness` 或 `cordiverse/cordis`。
