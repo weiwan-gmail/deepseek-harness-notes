@@ -1,6 +1,6 @@
 # 07 · 提示词片段与工具 schema 组装
 
-课表：[source-curriculum.md](../source-curriculum.md) · 上一篇：[06 session-log](06-session-log.md) · 下一篇：[08 tools-pipeline](../source-curriculum.md)（待写）
+课表：[source-curriculum.md](../source-curriculum.md) · 上一篇：[06 session-log](06-session-log.md) · 下一篇：[08 tools-pipeline](08-tools-pipeline.md)
 
 读的是 DeepSeek Harness 真正跑的那份系统提示词注册表，不是自己再发明一套词。
 源码用 GitHub raw / API 拉取，**没有** clone `deepseek-ai/deepseek-harness` 或 `cordiverse/cordis`。
