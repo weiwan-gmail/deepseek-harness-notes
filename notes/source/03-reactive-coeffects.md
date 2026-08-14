@@ -1,6 +1,6 @@
 # 03 · inject / provide / refresh / committed
 
-课表：[source-curriculum.md](../source-curriculum.md) · 上一篇：[02 revertible-effects](02-revertible-effects.md) · 下一篇：[04 events](../source-curriculum.md)（待写）
+课表：[source-curriculum.md](../source-curriculum.md) · 上一篇：[02 revertible-effects](02-revertible-effects.md) · 下一篇：[04 events](04-events.md)
 
 读的是 DeepSeek Harness 真正跑的那份 Cordis，不是自己再发明一套词。
 源码用 GitHub raw / API 拉取，**没有** clone `deepseek-ai/deepseek-harness` 或 `cordiverse/cordis`。
