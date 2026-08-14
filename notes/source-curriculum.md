@@ -15,7 +15,7 @@
 | 03 | reactive-coeffects | inject / provide / refresh / committed | done | [notes/source/03-reactive-coeffects.md](source/03-reactive-coeffects.md) | 2026-08-14 |
 | 04 | events | emit / waterfall / serial / parallel | done | [notes/source/04-events.md](source/04-events.md) | 2026-08-14 |
 | 05 | boot-profiles-bundles | 启动、profile、bundle、patch | done | [notes/source/05-boot-profiles-bundles.md](source/05-boot-profiles-bundles.md) | 2026-08-14 |
-| 06 | session-log | 只追加 SessionEvent 与 deriveMessages | pending | notes/source/06-session-log.md | |
+| 06 | session-log | 只追加 SessionEvent 与 deriveMessages | done | [notes/source/06-session-log.md](source/06-session-log.md) | 2026-08-14 |
 | 07 | system-prompt | 提示词片段与工具 schema 组装 | pending | notes/source/07-system-prompt.md | |
 | 08 | tools-pipeline | 工具注册表与 pre/execute/post 流水线 | pending | notes/source/08-tools-pipeline.md | |
 | 09 | agent-registry | Agent 接口、工厂、活注册表 | pending | notes/source/09-agent-registry.md | |

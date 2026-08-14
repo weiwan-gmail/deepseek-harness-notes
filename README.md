@@ -56,6 +56,7 @@
 - 03 · inject / provide / 反应式余效应：[notes/source/03-reactive-coeffects.md](notes/source/03-reactive-coeffects.md)
 - 04 · emit / waterfall / serial / parallel：[notes/source/04-events.md](notes/source/04-events.md)
 - 05 · 启动、profile、bundle、patch：[notes/source/05-boot-profiles-bundles.md](notes/source/05-boot-profiles-bundles.md)
+- 06 · 只追加 SessionEvent 与 deriveMessages：[notes/source/06-session-log.md](notes/source/06-session-log.md)
 
 ## 版权与归属
 

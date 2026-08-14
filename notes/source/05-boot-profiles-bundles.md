@@ -1,6 +1,6 @@
 # 05 · 启动、profile、bundle、patch
 
-课表：[source-curriculum.md](../source-curriculum.md) · 上一篇：[04 events](04-events.md) · 下一篇：[06 session-log](../source-curriculum.md)（待写）
+课表：[source-curriculum.md](../source-curriculum.md) · 上一篇：[04 events](04-events.md) · 下一篇：[06 session-log](06-session-log.md)
 
 读的是 DeepSeek Harness 真正跑的那份启动与组装，不是自己再发明一套词。
 源码用 GitHub raw / API 拉取，**没有** clone `deepseek-ai/deepseek-harness` 或 `cordiverse/cordis`。
