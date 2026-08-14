@@ -1,6 +1,6 @@
 # 13 · 文件系统、子进程、沙箱缝
 
-课表：[source-curriculum.md](../source-curriculum.md) · 上一篇：[12 agent-scope](12-agent-scope.md) · 下一篇：[14 approval-guard](../source-curriculum.md)（待写）
+课表：[source-curriculum.md](../source-curriculum.md) · 上一篇：[12 agent-scope](12-agent-scope.md) · 下一篇：[14 approval-guard](14-approval-guard.md)
 
 读的是 DeepSeek Harness 真正跑的那份「碰磁盘、拉进程、围院子」的缝，不是自己再发明一套沙箱内核。
 源码用 GitHub raw / API 拉取，**没有** clone `deepseek-ai/deepseek-harness` 或 `cordiverse/cordis`。

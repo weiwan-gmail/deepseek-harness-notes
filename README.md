@@ -64,6 +64,7 @@
 - 11 · ctx.llm 适配器与流式：[notes/source/11-llm-streaming.md](notes/source/11-llm-streaming.md)
 - 12 · 每个 agent 一根子纤程：[notes/source/12-agent-scope.md](notes/source/12-agent-scope.md)
 - 13 · 文件系统、子进程、沙箱缝：[notes/source/13-fs-subprocess-sandbox.md](notes/source/13-fs-subprocess-sandbox.md)
+- 14 · 审批、guard、策略：[notes/source/14-approval-guard.md](notes/source/14-approval-guard.md)
 
 ## 版权与归属
 

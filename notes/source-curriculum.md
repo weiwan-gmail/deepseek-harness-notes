@@ -23,7 +23,7 @@
 | 11 | llm-streaming | ctx.llm 适配器与流式 | done | [notes/source/11-llm-streaming.md](source/11-llm-streaming.md) | 2026-08-14 |
 | 12 | agent-scope | 每个 agent 一根子纤程 | done | [notes/source/12-agent-scope.md](source/12-agent-scope.md) | 2026-08-14 |
 | 13 | fs-subprocess-sandbox | 文件系统、子进程、沙箱缝 | done | [notes/source/13-fs-subprocess-sandbox.md](source/13-fs-subprocess-sandbox.md) | 2026-08-14 |
-| 14 | approval-guard | 审批、guard、策略 | pending | notes/source/14-approval-guard.md | |
+| 14 | approval-guard | 审批、guard、策略 | done | [notes/source/14-approval-guard.md](source/14-approval-guard.md) | 2026-08-14 |
 | 15 | subagents | 子 agent 提供方 | pending | notes/source/15-subagents.md | |
 | 16 | skills-mcp | skills 与 MCP | pending | notes/source/16-skills-mcp.md | |
 | 17 | storage-persistence | 持久化与会话恢复 | pending | notes/source/17-storage-persistence.md | |
