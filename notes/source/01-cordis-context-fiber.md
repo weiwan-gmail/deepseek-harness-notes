@@ -1,6 +1,6 @@
 # 01 · Cordis 内核：Context 与 Fiber 生命周期
 
-课表：[source-curriculum.md](../source-curriculum.md) · 下一篇：[02 revertible-effects](../source-curriculum.md)（待写）
+课表：[source-curriculum.md](../source-curriculum.md) · 下一篇：[02 revertible-effects](02-revertible-effects.md)
 
 读的是 DeepSeek Harness 真正跑的那份 Cordis，不是自己再发明一套词。
 源码用 GitHub raw / API 拉取，**没有** clone `deepseek-ai/deepseek-harness` 或 `cordiverse/cordis`。

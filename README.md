@@ -52,6 +52,7 @@
 
 - 课表：[notes/source-curriculum.md](notes/source-curriculum.md)
 - 01 · Context 与 Fiber：[notes/source/01-cordis-context-fiber.md](notes/source/01-cordis-context-fiber.md)
+- 02 · ctx.effect / 后装先卸：[notes/source/02-revertible-effects.md](notes/source/02-revertible-effects.md)
 
 ## 版权与归属
 

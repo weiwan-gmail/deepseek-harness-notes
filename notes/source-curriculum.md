@@ -10,8 +10,8 @@
 
 | # | slug | 标题 | 状态 | 输出 | 日期 |
 |---|---|---|---|---|---|
-| 01 | cordis-context-fiber | Cordis 内核：Context 与 Fiber 生命周期 | in_progress | [notes/source/01-cordis-context-fiber.md](source/01-cordis-context-fiber.md) | |
-| 02 | revertible-effects | ctx.effect / dispose 后装先卸 | pending | notes/source/02-revertible-effects.md | |
+| 01 | cordis-context-fiber | Cordis 内核：Context 与 Fiber 生命周期 | done | [notes/source/01-cordis-context-fiber.md](source/01-cordis-context-fiber.md) | 2026-08-14 |
+| 02 | revertible-effects | ctx.effect / dispose 后装先卸 | done | [notes/source/02-revertible-effects.md](source/02-revertible-effects.md) | 2026-08-14 |
 | 03 | reactive-coeffects | inject / provide / refresh / committed | pending | notes/source/03-reactive-coeffects.md | |
 | 04 | events | emit / waterfall / serial / parallel | pending | notes/source/04-events.md | |
 | 05 | boot-profiles-bundles | 启动、profile、bundle、patch | pending | notes/source/05-boot-profiles-bundles.md | |
