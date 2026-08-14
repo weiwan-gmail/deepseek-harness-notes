@@ -1,6 +1,6 @@
 # 02 · ctx.effect / dispose 后装先卸
 
-课表：[source-curriculum.md](../source-curriculum.md) · 上一篇：[01 Context 与 Fiber](01-cordis-context-fiber.md) · 下一篇：[03 reactive-coeffects](../source-curriculum.md)（待写）
+课表：[source-curriculum.md](../source-curriculum.md) · 上一篇：[01 Context 与 Fiber](01-cordis-context-fiber.md) · 下一篇：[03 reactive-coeffects](03-reactive-coeffects.md)
 
 读的是 DeepSeek Harness 真正跑的那份 Cordis，不是自己再发明一套词。
 源码用 GitHub raw / API 拉取，**没有** clone `deepseek-ai/deepseek-harness` 或 `cordiverse/cordis`。
