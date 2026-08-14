@@ -55,6 +55,7 @@
 - 02 · ctx.effect / 后装先卸：[notes/source/02-revertible-effects.md](notes/source/02-revertible-effects.md)
 - 03 · inject / provide / 反应式余效应：[notes/source/03-reactive-coeffects.md](notes/source/03-reactive-coeffects.md)
 - 04 · emit / waterfall / serial / parallel：[notes/source/04-events.md](notes/source/04-events.md)
+- 05 · 启动、profile、bundle、patch：[notes/source/05-boot-profiles-bundles.md](notes/source/05-boot-profiles-bundles.md)
 
 ## 版权与归属
 

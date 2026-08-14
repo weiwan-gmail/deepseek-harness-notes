@@ -14,7 +14,7 @@
 | 02 | revertible-effects | ctx.effect / dispose 后装先卸 | done | [notes/source/02-revertible-effects.md](source/02-revertible-effects.md) | 2026-08-14 |
 | 03 | reactive-coeffects | inject / provide / refresh / committed | done | [notes/source/03-reactive-coeffects.md](source/03-reactive-coeffects.md) | 2026-08-14 |
 | 04 | events | emit / waterfall / serial / parallel | done | [notes/source/04-events.md](source/04-events.md) | 2026-08-14 |
-| 05 | boot-profiles-bundles | 启动、profile、bundle、patch | pending | notes/source/05-boot-profiles-bundles.md | |
+| 05 | boot-profiles-bundles | 启动、profile、bundle、patch | done | [notes/source/05-boot-profiles-bundles.md](source/05-boot-profiles-bundles.md) | 2026-08-14 |
 | 06 | session-log | 只追加 SessionEvent 与 deriveMessages | pending | notes/source/06-session-log.md | |
 | 07 | system-prompt | 提示词片段与工具 schema 组装 | pending | notes/source/07-system-prompt.md | |
 | 08 | tools-pipeline | 工具注册表与 pre/execute/post 流水线 | pending | notes/source/08-tools-pipeline.md | |
