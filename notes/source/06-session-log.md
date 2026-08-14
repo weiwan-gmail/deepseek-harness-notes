@@ -1,6 +1,6 @@
 # 06 · 只追加 SessionEvent 与 deriveMessages
 
-课表：[source-curriculum.md](../source-curriculum.md) · 上一篇：[05 boot-profiles-bundles](05-boot-profiles-bundles.md) · 下一篇：[07 system-prompt](../source-curriculum.md)（待写）
+课表：[source-curriculum.md](../source-curriculum.md) · 上一篇：[05 boot-profiles-bundles](05-boot-profiles-bundles.md) · 下一篇：[07 system-prompt](07-system-prompt.md)
 
 读的是 DeepSeek Harness 真正跑的那份会话日志，不是自己再发明一套词。
 源码用 GitHub raw / API 拉取，**没有** clone `deepseek-ai/deepseek-harness` 或 `cordiverse/cordis`。
