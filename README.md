@@ -46,6 +46,13 @@
 
 ---
 
+## 源码系列
+
+按主干顺序对照 Harness vendor 的 Cordis / 产品源码精读（不 clone 上游）。
+
+- 课表：[notes/source-curriculum.md](notes/source-curriculum.md)
+- 01 · Context 与 Fiber：[notes/source/01-cordis-context-fiber.md](notes/source/01-cordis-context-fiber.md)
+
 ## 版权与归属
 
 - `paper/` 下的 PDF 及其文本抽取**属于原作者**，本仓库只作个人学习副本，不主张任何版权。
