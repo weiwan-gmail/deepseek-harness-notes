@@ -1,6 +1,6 @@
 # 14 · 审批、guard、策略
 
-课表：[source-curriculum.md](../source-curriculum.md) · 上一篇：[13 fs-subprocess-sandbox](13-fs-subprocess-sandbox.md) · 下一篇：[15 subagents](../source-curriculum.md)（待写）
+课表：[source-curriculum.md](../source-curriculum.md) · 上一篇：[13 fs-subprocess-sandbox](13-fs-subprocess-sandbox.md) · 下一篇：[15 subagents](15-subagents.md)
 
 读的是 DeepSeek Harness 真正跑的那份「人点头、插件把关、会话策略」的缝，不是自己再发明一套权限演算。
 源码用 GitHub raw / API 拉取，**没有** clone `deepseek-ai/deepseek-harness` 或 `cordiverse/cordis`。
