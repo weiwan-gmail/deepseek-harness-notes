@@ -25,7 +25,7 @@
 | 13 | fs-subprocess-sandbox | 文件系统、子进程、沙箱缝 | done | [notes/source/13-fs-subprocess-sandbox.md](source/13-fs-subprocess-sandbox.md) | 2026-08-14 |
 | 14 | approval-guard | 审批、guard、策略 | done | [notes/source/14-approval-guard.md](source/14-approval-guard.md) | 2026-08-14 |
 | 15 | subagents | 子 agent 提供方 | done | [notes/source/15-subagents.md](source/15-subagents.md) | 2026-08-14 |
-| 16 | skills-mcp | skills 与 MCP | pending | notes/source/16-skills-mcp.md | |
+| 16 | skills-mcp | skills 与 MCP | done | [notes/source/16-skills-mcp.md](source/16-skills-mcp.md) | 2026-08-14 |
 | 17 | storage-persistence | 持久化与会话恢复 | pending | notes/source/17-storage-persistence.md | |
 | 18 | jobs-schedule | 后台任务与调度 | pending | notes/source/18-jobs-schedule.md | |
 | 19 | compaction-context | 上下文压缩 | pending | notes/source/19-compaction-context.md | |

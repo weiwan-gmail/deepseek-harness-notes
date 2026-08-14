@@ -1,6 +1,6 @@
 # 15 · 子 agent 提供方
 
-课表：[source-curriculum.md](../source-curriculum.md) · 上一篇：[14 approval-guard](14-approval-guard.md) · 下一篇：[16 skills-mcp](../source-curriculum.md)（待写）
+课表：[source-curriculum.md](../source-curriculum.md) · 上一篇：[14 approval-guard](14-approval-guard.md) · 下一篇：[16 skills-mcp](16-skills-mcp.md)
 
 读的是 DeepSeek Harness 真正跑的那份「把活派给另一位厨师」的缝，不是自己再发明一套多智能体演算。
 源码用 GitHub raw / API 拉取，**没有** clone `deepseek-ai/deepseek-harness` 或 `cordiverse/cordis`。
