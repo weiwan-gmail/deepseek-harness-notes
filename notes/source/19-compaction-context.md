@@ -1,6 +1,6 @@
 # 19 · 上下文压缩
 
-课表：[source-curriculum.md](../source-curriculum.md) · 上一篇：[18 jobs-schedule](18-jobs-schedule.md) · 下一篇：[20 web-client](../source-curriculum.md)（待写）
+课表：[source-curriculum.md](../source-curriculum.md) · 上一篇：[18 jobs-schedule](18-jobs-schedule.md) · 下一篇：[20 web-client](20-web-client.md)
 
 读的是 DeepSeek Harness 真正跑的那套压缩缝。
 源码用 GitHub raw / API 拉取，**没有** clone `deepseek-ai/deepseek-harness` 或 `cordiverse/cordis`。

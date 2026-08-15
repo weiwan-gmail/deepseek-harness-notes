@@ -29,7 +29,7 @@
 | 17 | storage-persistence | 持久化与会话恢复 | done | [notes/source/17-storage-persistence.md](source/17-storage-persistence.md) | 2026-08-14 |
 | 18 | jobs-schedule | 后台任务与调度 | done | [notes/source/18-jobs-schedule.md](source/18-jobs-schedule.md) | 2026-08-14 |
 | 19 | compaction-context | 上下文压缩 | done | [notes/source/19-compaction-context.md](source/19-compaction-context.md) | 2026-08-14 |
-| 20 | web-client | Web / client 如何接到 session/event | pending | notes/source/20-web-client.md | |
+| 20 | web-client | Web / client 如何接到 session/event | done | [notes/source/20-web-client.md](source/20-web-client.md) | 2026-08-14 |
 
 ## 非主干 / 以后再说
 
