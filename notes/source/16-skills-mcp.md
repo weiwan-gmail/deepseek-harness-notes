@@ -1,6 +1,6 @@
 # 16 · skills 与 MCP
 
-课表：[source-curriculum.md](../source-curriculum.md) · 上一篇：[15 subagents](15-subagents.md) · 下一篇：[17 storage-persistence](../source-curriculum.md)（待写）
+课表：[source-curriculum.md](../source-curriculum.md) · 上一篇：[15 subagents](15-subagents.md) · 下一篇：[17 storage-persistence](17-storage-persistence.md)
 
 读的是 DeepSeek Harness 真正跑的那两套「模型面前多出来的刀」：一份是菜谱卡片，一份是外请师傅自带的刀。不是自己再发明一套插件市场。
 源码用 GitHub raw / API 拉取，**没有** clone `deepseek-ai/deepseek-harness` 或 `cordiverse/cordis`。

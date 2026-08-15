@@ -67,6 +67,7 @@
 - 14 · 审批、guard、策略：[notes/source/14-approval-guard.md](notes/source/14-approval-guard.md)
 - 15 · 子 agent 提供方：[notes/source/15-subagents.md](notes/source/15-subagents.md)
 - 16 · skills 与 MCP：[notes/source/16-skills-mcp.md](notes/source/16-skills-mcp.md)
+- 17 · 持久化与会话恢复：[notes/source/17-storage-persistence.md](notes/source/17-storage-persistence.md)
 
 ## 版权与归属
 
