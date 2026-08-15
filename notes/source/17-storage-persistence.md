@@ -1,6 +1,6 @@
 # 17 · 持久化与会话恢复
 
-课表：[source-curriculum.md](../source-curriculum.md) · 上一篇：[16 skills-mcp](16-skills-mcp.md) · 下一篇：[18 jobs-schedule](../source-curriculum.md)（待写）
+课表：[source-curriculum.md](../source-curriculum.md) · 上一篇：[16 skills-mcp](16-skills-mcp.md) · 下一篇：[18 jobs-schedule](18-jobs-schedule.md)
 
 读的是 DeepSeek Harness 真正跑的那份「小票怎样落到盘上、灶怎样重新点着」的缝，不是自己再发明一套数据库。
 源码用 GitHub raw / API 拉取，**没有** clone `deepseek-ai/deepseek-harness` 或 `cordiverse/cordis`。
