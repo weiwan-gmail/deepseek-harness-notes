@@ -31,6 +31,11 @@
 | 19 | compaction-context | 上下文压缩 | done | [notes/source/19-compaction-context.md](source/19-compaction-context.md) | 2026-08-14 |
 | 20 | web-client | Web / client 如何接到 session/event | done | [notes/source/20-web-client.md](source/20-web-client.md) | 2026-08-14 |
 
+
+## 补充（不占主干编号）
+
+- [Reflect 深读：extend / isolate / intercept](source/reflect-extend-isolate.md)（2026-08-14）— 从 JS 原型和 Reflect 讲这三件套，01 的加厚版。
+
 ## 非主干 / 以后再说
 
 本系列不覆盖：`acp`、`e2b`、`lsp`、`workflow`、`examples`、`test-support`。

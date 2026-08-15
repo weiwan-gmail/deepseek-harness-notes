@@ -96,7 +96,7 @@ intercept(name: string, config: any) {
 
 Harness 为什么在乎 isolate：`docs/architecture.md` 写「给一个会话另一套能力」时，agent preset 里的服务行需要一个 `isolate` realm。`packages/boot/app-boot/README.md` 补充：`cordis:group` 和 `cordis:include` 并列注册，好让一次组合把**同一个 isolate realm** 同时交给提供方和它的消费者。这就是论文定义 28–29 的「同一逻辑依赖、不同部件看到不同绑定」，实现上是符号标签，不是另起一个进程。
 
-解析时标签怎么用，在 `vendor/cordis/src/reflect.ts`：`provide` 把实现存进 `this.store[key]`，`key` 来自当前上下文的 isolate 标签；`_getImpl` 用同一套标签取回。Proxy 的 get trap 还会沿纤程父链往上走，直到 isolate 标签对不上就停——子回路看不到父回路的同名服务。
+这三件套的 JS 原理（原型、`Reflect.ownKeys`、描述符、symbol 标签）单独写在 [Reflect 深读](reflect-extend-isolate.md)。解析时标签怎么用，在 `vendor/cordis/src/reflect.ts`：`provide` 把实现存进 `this.store[key]`，`key` 来自当前上下文的 isolate 标签；`_getImpl` 用同一套标签取回。Proxy 的 get trap 还会沿纤程父链往上走，直到 isolate 标签对不上就停——子回路看不到父回路的同名服务。
 
 ```ts
 _getImpl(name: string, strict = true) {

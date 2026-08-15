@@ -71,6 +71,7 @@
 - 18 · 后台任务与调度：[notes/source/18-jobs-schedule.md](notes/source/18-jobs-schedule.md)
 - 19 · 上下文压缩：[notes/source/19-compaction-context.md](notes/source/19-compaction-context.md)
 - 20 · Web / client 接到 session/event：[notes/source/20-web-client.md](notes/source/20-web-client.md)
+- 补充 · Reflect / extend / isolate / intercept：[notes/source/reflect-extend-isolate.md](notes/source/reflect-extend-isolate.md)
 
 ## 版权与归属
 
