@@ -1,6 +1,6 @@
 # 18 · 后台任务与调度
 
-课表：[source-curriculum.md](../source-curriculum.md) · 上一篇：[17 storage-persistence](17-storage-persistence.md) · 下一篇：[19 compaction-context](../source-curriculum.md)（待写）
+课表：[source-curriculum.md](../source-curriculum.md) · 上一篇：[17 storage-persistence](17-storage-persistence.md) · 下一篇：[19 compaction-context](19-compaction-context.md)
 
 读的是 DeepSeek Harness 真正跑的那两套「现在还在炒」和「等会儿再响」的缝，不是自己再发明一套队列或 cron。
 源码用 GitHub raw / API 拉取，**没有** clone `deepseek-ai/deepseek-harness` 或 `cordiverse/cordis`。

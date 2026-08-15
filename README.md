@@ -69,6 +69,7 @@
 - 16 · skills 与 MCP：[notes/source/16-skills-mcp.md](notes/source/16-skills-mcp.md)
 - 17 · 持久化与会话恢复：[notes/source/17-storage-persistence.md](notes/source/17-storage-persistence.md)
 - 18 · 后台任务与调度：[notes/source/18-jobs-schedule.md](notes/source/18-jobs-schedule.md)
+- 19 · 上下文压缩：[notes/source/19-compaction-context.md](notes/source/19-compaction-context.md)
 
 ## 版权与归属
 
